@@ -1,0 +1,16 @@
+{
+	"type" : "Feature",
+		"id":"Toimipisteet.112640",
+		"geometry" : {
+			"type" : "Point",
+			"coordinates" : [ 25.076052719889425, 60.26030912808771 ]
+		},
+		"properties" : {
+			"tyyppi" : "kirjasto",
+			"color": "red",
+			"id" : 8324,
+			"nimi" : "Jakomäen kirjasto",
+			"tunnus" : 414 ,
+			"nimi_fi" : "Jakomäki"	
+		}
+}
