@@ -1,23 +1,18 @@
-{
-	"type" : "Feature",
-		"id":"Toimipisteet.112640",
-		"geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 25.211632686922, 60.2620251106441 ]
-		},
-		"properties" : {
-			"tyyppi" : "kirjasto",
-			"GeometriaID" : "3-01HCF06MM2EDD9YB6KJN4HZ62T",
-			"nimi" : "Sakarinmäen lastenkirjasto"
-		},
-		"geometry" : {
-			"type" : "Point",
-			"coordinates" : [ 25.0527327625669, 60.1946101481067 ]
-		},
-		"properties" : {
-			"tyyppi" : "kirjasto",
-			"GeometriaID" : "3-01HCF06MHM7MWXCG6XVNA7FPQZ",
-			"nimi" : "Roihuvuoren kirjasto"
-		}
-}
-
+[
+  {
+    "GeometriaID": "3-01HCF06MM2EDD9YB6KJN4HZ62T",
+    "nimi": "Sakarinmäen lastenkirjasto",
+    "coordinates": [
+      25.211632686922,
+      60.2620251106441
+    ]
+  },
+  {
+    "GeometriaID": "3-01HCF06MHM7MWXCG6XVNA7FPQZ",
+    "nimi": "Roihuvuoren kirjasto",
+    "coordinates": [
+      25.0527327625669,
+      60.1946101481067
+    ]
+  }
+]
